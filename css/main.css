@@ -1,0 +1,8 @@
+.home {
+	base-font-family: "Comic Sans MS", inherit;
+	base-font-size: 20px;
+	small-font-size: $base-font-size * 0.875;
+	base-line-height:1.5;
+	text-color: #993300;
+	background-color: #ff99ff;
+}	
