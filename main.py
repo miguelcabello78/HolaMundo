@@ -1,3 +1,3 @@
 
 print "Hola mundo"
-print "ESta es una modificación hecha en la rama A."
+print "ESta es una línea tomada con las modificaciones de la rama A y B."
